@@ -1,0 +1,262 @@
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\csc.exe
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\csc.exe.config
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\csc.rsp
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\csi.exe
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\csi.rsp
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\System.AppContext.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\System.Collections.Immutable.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\System.IO.FileSystem.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\System.Reflection.Metadata.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\vbc.exe
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\vbc.exe.config
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\vbc.rsp
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\VBCSCompiler.exe
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\roslyn\VBCSCompiler.exe.config
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Bot.Sample.PizzaBot.dll.config
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Bot.Sample.PizzaBot.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Bot.Sample.PizzaBot.pdb
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Azure.AppService.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Bot.Builder.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Bot.Connector.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.WindowsAzure.Mobile.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Newtonsoft.Json.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\System.Net.Http.Extensions.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\System.Net.Http.Formatting.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\System.Net.Http.Primitives.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\System.Web.Http.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\System.Web.Http.WebHost.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Chronic.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Autofac.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Bot.Builder.pdb
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Bot.Builder.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Bot.Connector.pdb
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Bot.Connector.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Azure.AppService.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.WindowsAzure.Mobile.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Newtonsoft.Json.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\System.Net.Http.Extensions.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\System.Net.Http.Formatting.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\System.Net.Http.Primitives.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\System.Web.Http.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\System.Web.Http.WebHost.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Autofac.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\de-DE\Microsoft.Bot.Builder.resources.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\it\Microsoft.Bot.Builder.resources.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\bin\zh-Hans\Microsoft.Bot.Builder.resources.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\obj\Debug\Microsoft.Bot.Sample.PizzaBot.csproj.App.config
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\obj\Debug\Microsoft.Bot.Sample.PizzaBot.dll
+E:\Github\BotBuilder\CSharp\Samples\PizzaBot\obj\Debug\Microsoft.Bot.Sample.PizzaBot.pdb
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\csc.exe
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\csc.exe.config
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\csc.rsp
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\csi.exe
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\csi.rsp
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\System.AppContext.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\vbc.exe
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\vbc.exe.config
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\vbc.rsp
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Sample.PizzaBot.dll.config
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Sample.PizzaBot.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Sample.PizzaBot.pdb
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Azure.AppService.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Newtonsoft.Json.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Net.Http.Extensions.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Net.Http.Primitives.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Web.Http.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Chronic.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Autofac.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Azure.AppService.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Builder.pdb
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Connector.pdb
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Newtonsoft.Json.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Net.Http.Extensions.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Net.Http.Primitives.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Web.Http.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Autofac.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\de-DE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\bin\zh-Hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\obj\Debug\Microsoft.Bot.Sample.PizzaBot.csproj.App.config
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\obj\Debug\Microsoft.Bot.Sample.PizzaBot.csprojResolveAssemblyReference.cache
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\obj\Debug\Microsoft.Bot.Sample.PizzaBot.dll
+C:\Users\Ehsan\Documents\Visual Studio 2015\Projects\PizzaBot\obj\Debug\Microsoft.Bot.Sample.PizzaBot.pdb
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\obj\Debug\Microsoft.Bot.Sample.PizzaBot.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\obj\Debug\Microsoft.Bot.Sample.PizzaBot.pdb
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\csc.exe
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\csc.exe.config
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\csc.rsp
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\csi.exe
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\csi.rsp
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\System.AppContext.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\vbc.exe
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\vbc.exe.config
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\vbc.rsp
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Sample.PizzaBot.dll.config
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Sample.PizzaBot.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Sample.PizzaBot.pdb
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Azure.AppService.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Newtonsoft.Json.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Net.Http.Extensions.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Net.Http.Primitives.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Web.Http.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Chronic.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Autofac.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Azure.AppService.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Newtonsoft.Json.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Net.Http.Extensions.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Net.Http.Primitives.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Web.Http.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Autofac.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\de-DE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\zh-Hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\obj\Debug\Microsoft.Bot.Sample.PizzaBot.csproj.App.config
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\obj\Debug\Microsoft.Bot.Sample.PizzaBot.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Builder.FormFlow.Json.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.AppContext.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Collections.Immutable.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.IO.FileSystem.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\System.Reflection.Metadata.dll
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\bin\Microsoft.Bot.Builder.FormFlow.Json.xml
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\obj\Debug\Microsoft.Bot.Sample.PizzaBot.Properties.Resources.resources
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\PizzaBot\obj\Debug\Microsoft.Bot.Sample.PizzaBot.csproj.GenerateResource.Cache

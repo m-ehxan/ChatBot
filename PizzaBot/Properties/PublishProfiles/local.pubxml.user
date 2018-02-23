@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\www\pizzaworld.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ar/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/22/2016 00:26:44</publishTime>
+    </File>
+    <File Include="bin/Autofac.dll">
+      <publishTime>08/12/2014 13:20:26</publishTime>
+    </File>
+    <File Include="bin/Chronic.dll">
+      <publishTime>05/09/2016 10:16:50</publishTime>
+    </File>
+    <File Include="bin/cs/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/22/2016 00:26:44</publishTime>
+    </File>
+    <File Include="bin/de-DE/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/22/2016 00:26:44</publishTime>
+    </File>
+    <File Include="bin/en/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/22/2016 00:26:44</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/22/2016 00:26:44</publishTime>
+    </File>
+    <File Include="bin/fa/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/22/2016 00:26:44</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/22/2016 00:26:44</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/22/2016 00:26:44</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/22/2016 00:26:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.AppService.dll">
+      <publishTime>03/23/2015 18:26:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bot.Builder.dll">
+      <publishTime>09/22/2016 00:26:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bot.Connector.dll">
+      <publishTime>09/22/2016 00:19:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bot.Sample.PizzaBot.dll">
+      <publishTime>10/06/2016 19:29:31</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>08/20/2015 08:08:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Diagnostics.Tracing.EventSource.dll">
+      <publishTime>12/01/2015 14:31:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Protocol.Extensions.dll">
+      <publishTime>06/22/2015 13:56:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Rest.ClientRuntime.dll">
+      <publishTime>07/21/2016 17:21:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Configuration.dll">
+      <publishTime>02/03/2016 16:22:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Mobile.dll">
+      <publishTime>11/13/2015 17:26:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <publishTime>11/13/2015 17:26:02</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/14/2016 21:30:06</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>03/29/2016 14:28:16</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/22/2016 00:26:44</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>06/22/2015 13:56:40</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Extensions.dll">
+      <publishTime>02/19/2015 20:10:46</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 04:02:42</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Primitives.dll">
+      <publishTime>02/19/2015 20:10:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2015 04:02:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/28/2015 04:03:46</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Bot.Builder.resources.dll">
+      <publishTime>09/22/2016 00:26:44</publishTime>
+    </File>
+    <File Include="default.htm">
+      <publishTime>10/05/2016 22:38:34</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/19/2016 13:49:56</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/19/2016 13:49:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/06/2016 19:20:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

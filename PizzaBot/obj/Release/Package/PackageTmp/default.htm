@@ -1,0 +1,250 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+
+        .row:after {
+            content: "";
+            clear: both;
+            display: block;
+        }
+
+        [class*="col-"] {
+            float: left;
+            padding: 15px;
+            width: 100%;
+        }
+
+        @media only screen and (min-width: 600px) {
+            .col-s-1 {
+                width: 8.33%;
+            }
+
+            .col-s-2 {
+                width: 16.66%;
+            }
+
+            .col-s-3 {
+                width: 25%;
+            }
+
+            .col-s-4 {
+                width: 33.33%;
+            }
+
+            .col-s-5 {
+                width: 41.66%;
+            }
+
+            .col-s-6 {
+                width: 50%;
+            }
+
+            .col-s-7 {
+                width: 58.33%;
+            }
+
+            .col-s-8 {
+                width: 66.66%;
+            }
+
+            .col-s-9 {
+                width: 75%;
+            }
+
+            .col-s-10 {
+                width: 83.33%;
+            }
+
+            .col-s-11 {
+                width: 91.66%;
+            }
+
+            .col-s-12 {
+                width: 100%;
+            }
+        }
+
+        @media only screen and (min-width: 768px) {
+            .col-1 {
+                width: 8.33%;
+            }
+
+            .col-2 {
+                width: 16.66%;
+            }
+
+            .col-3 {
+                width: 25%;
+            }
+
+            .col-4 {
+                width: 33.33%;
+            }
+
+            .col-5 {
+                width: 41.66%;
+            }
+
+            .col-6 {
+                width: 50%;
+            }
+
+            .col-7 {
+                width: 58.33%;
+            }
+
+            .col-8 {
+                width: 66.66%;
+            }
+
+            .col-9 {
+                width: 75%;
+            }
+
+            .col-10 {
+                width: 83.33%;
+            }
+
+            .col-11 {
+                width: 91.66%;
+            }
+
+            .col-12 {
+                width: 100%;
+            }
+        }
+
+        html {
+            font-family: "Trebuchet MS", sans-serif;
+        }
+
+        .header {
+            background-color: #33b5e5;
+            color: #ffffff;
+            padding: 15px;
+        }
+
+        .menu ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .menu li {
+            padding: 8px;
+            margin-bottom: 7px;
+            background-color: #33b5e5;
+            color: #ffffff;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+        }
+
+            .menu li:hover {
+                background-color: #0099cc;
+            }
+
+        .aside {
+            background-color: #33b5e5;
+            padding: 15px;
+            color: #ffffff;
+            text-align: center;
+            font-size: 14px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+        }
+
+        .footer {
+            background-color: #0099cc;
+            color: #ffffff;
+            text-align: center;
+            font-size: 12px;
+            padding: 15px;
+        }
+
+        .button {
+            display: inline-block;
+            border-radius: 4px;
+            background-color: #f4511e;
+            border: none;
+            color: #FFFFFF;
+            text-align: center;
+            font-size: 28px;
+            padding: 20px;
+            width: 200px;
+            transition: all 0.5s;
+            cursor: pointer;
+        }
+
+            .button span {
+                cursor: pointer;
+                display: inline-block;
+                position: relative;
+                transition: 0.5s;
+            }
+
+                .button span:after {
+                    content: '»';
+                    position: absolute;
+                    opacity: 0;
+                    top: 0;
+                    right: -20px;
+                    transition: 0.5s;
+                }
+
+            .button:hover span {
+                padding-right: 25px;
+            }
+
+                .button:hover span:after {
+                    opacity: 1;
+                    right: 0;
+                }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Pizza Ordering Bot</h1>
+    </div>
+
+    <div class="row">
+        <div class="col-3 col-s-3 menu">
+            <ul>
+                <button class="button" style="vertical-align:middle" onclick="window.location.href = 'https://join.skype.com/bot/09c361c3-9db2-4b62-980c-906427d60f33'"> <span>Click Here</span> </button>
+            </ul>
+        </div>
+
+        <div class="col-6 col-s-9">
+            <h1>Skype Bot</h1>
+            <p>It's a simple Bot that resides in your skype contacts and you can access it any time to order a pizza for you. You can buid your custom pizza with the size and toping of your own choice. Click on the button to add it your skype contacts! </p>
+            <img src="http://www.clipartkid.com/images/178/italian-pizza-man-cartoon-search-pictures-photos-zxIe1J-clipart.jpg" width="460" height="345">
+        </div>
+
+        <div class="col-3 col-s-12">
+            <div class="aside">
+                <h2>What?</h2>
+                <p>An Internet bot, also known as web robot, which performs tasks that are both simple and structurally repetitive, at a much higher rate than would be possible for a human alone.</p>
+                <h2>Where?</h2>
+                <p>Click on the Red button to find the bot application</p>
+                <h2>How?</h2>
+                <p>Add it to your skype contacts. It will always be there to help your order the pizza of your choice</p>
+                <iframe style="height:600px; width:100%" src='https://webchat.botframework.com/embed/PizzaBotJ?s=7K2foHe5hc8.cwA.qqI.Q30fMzUHJHrhCMm8xU1XyxAQLfo3evh36rX__qUcqpQ'></iframe>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="footer">
+        <p>Comitted on making your life much easier. Ehsan!</p>
+    </div>
+
+</body>
+</html>
